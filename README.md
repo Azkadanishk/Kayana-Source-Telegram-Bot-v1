@@ -44,9 +44,10 @@ Sebelum instalasi, pastikan kamu sudah menyiapkan:
    cd Kayana-Source-Telegram-Bot-v1
    
 2. **Install Library yang Dibutuhkan**
+   ```bash
    pip install python-telegram-bot pyautogui httpx
 
-3. **Konfigurasi Script**
+4. **Konfigurasi Script**
    Buka file main.py(nama file script kamu), cari bagian KONFIGURASI dan isi datanya:
    ```bash
    TELEGRAM_TOKEN = 'ISI_TOKEN_BOT_TELEGRAM'
@@ -56,8 +57,10 @@ Sebelum instalasi, pastikan kamu sudah menyiapkan:
 
 Cukup ketik perintah ini di terminal/CMD:
 ```bash
-python main.py
-** **
+python main.py -> isi file sesuai dengan yang kamu simpan
+
+
+
 Setelah bot aktif, buka Telegram kamu, cari bot yang kamu buat, lalu ketik /start untuk melihat menu panduan.
 
 ⚠️ **Disclaimer**
