@@ -57,7 +57,7 @@ Sebelum instalasi, pastikan kamu sudah menyiapkan:
 Cukup ketik perintah ini di terminal/CMD:
 ```bash
 python main.py
-
+** **
 Setelah bot aktif, buka Telegram kamu, cari bot yang kamu buat, lalu ketik /start untuk melihat menu panduan.
 
 ⚠️ **Disclaimer**
