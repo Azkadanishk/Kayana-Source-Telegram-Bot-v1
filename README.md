@@ -56,17 +56,21 @@ Sebelum instalasi, pastikan kamu sudah menyiapkan:
 🚀 **Cara Menjalankan**
 
 Cukup ketik perintah ini di terminal/CMD:
-```bash
-python main.py -> isi file sesuai dengan yang kamu simpan
 
+python main.py
 
 
 Setelah bot aktif, buka Telegram kamu, cari bot yang kamu buat, lalu ketik /start untuk melihat menu panduan.
 
+
 ⚠️ **Disclaimer**
+
+
 Project ini dibuat untuk tujuan pembelajaran dan produktivitas pribadi. Gunakan dengan bijak. Penulis tidak bertanggung jawab atas penyalahgunaan akses remote pada perangkat yang bukan milik pribadi.
 
 🤝 **Kontribusi**
+
 Punya ide fitur buat v2? Silakan buat Issue atau kirim Pull Request! Saya sangat terbuka buat kolaborasi.
+
 
 **Made with ❤️ by Azka Danish Kayana**
