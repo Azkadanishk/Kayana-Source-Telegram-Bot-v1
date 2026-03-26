@@ -48,12 +48,14 @@ Sebelum instalasi, pastikan kamu sudah menyiapkan:
 
 3. **Konfigurasi Script**
    Buka file main.py(nama file script kamu), cari bagian KONFIGURASI dan isi datanya:
+   ```bash
    TELEGRAM_TOKEN = 'ISI_TOKEN_BOT_TELEGRAM'
    MY_CHAT_ID = 12345 #isi ID TELEGRAM DI @userinfobot
 
 🚀 **Cara Menjalankan**
 
 Cukup ketik perintah ini di terminal/CMD:
+```bash
 python main.py
 
 Setelah bot aktif, buka Telegram kamu, cari bot yang kamu buat, lalu ketik /start untuk melihat menu panduan.
